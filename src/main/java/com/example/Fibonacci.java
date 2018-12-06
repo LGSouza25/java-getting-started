@@ -13,6 +13,7 @@ public class Fibonacci{
         }
     }
     
+    //apenas para testar o trevis    
     public static double Soma(double v1, double v2){
     	
     	double a =0, b=0, soma=0;    	

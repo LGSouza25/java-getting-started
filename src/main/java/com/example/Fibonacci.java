@@ -12,4 +12,11 @@ public class Fibonacci{
             return fibo(n - 1) + fibo(n - 2);
         }
     }
+    
+    public static double Soma(double v1, double v2){
+    	
+    	double a =0, b=0, soma=0;    	
+    	soma=a+b;
+    	return(soma);
+    }
 }

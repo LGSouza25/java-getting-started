@@ -29,4 +29,10 @@ public class TesteFibo {
         Fibonacci f = new Fibonacci();
         assertEquals(514229L, f.fibo(29));
     }
+    
+    @Test
+    public void Teste6() {
+        Fibonacci f = new Fibonacci();
+        assertEquals(4, f.oma(2,2));
+    }
 }
